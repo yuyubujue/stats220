@@ -4,11 +4,7 @@ This repository is building for stats 220 course.
 
 Main technical stack:
 
-
-
-[R]: https://cran.r-project.org/
-
-
+[R](https://cran.r-project.org/)
 
 - ***project1***
 - project2

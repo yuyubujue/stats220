@@ -25,15 +25,21 @@ p {color: #F22A68;
 
 The original photo is from The Simpsons, Homer represents person and Bart represents life.
 
+
+
 ![new_meme](./new_meme.png)
+
 
     ```{r file='meme.R', eval=FALSE}
 
     ```
 
+
 ## My animated GIF
 
 I cut 6 frames from The Simpsons and use these 6 frames to create a gif.
+
+
 
 ![my_animation](./my_animation.gif)
 

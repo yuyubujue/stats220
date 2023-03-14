@@ -1,0 +1,28 @@
+---
+title: "report"
+author: "Dahai Xie"
+date: "2023-03-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## *Project requirements*
+
+github repo: <https://github.com/yuyubujue/stats220>
+
+github page:<https://yuyubujue.github.io/stats220/>
+
+project1
+
+![](images/image-184551501.png)
+
+images
+
+![](images/image-403807831.png)
+
+All of these files have been uploaded to <https://github.com/yuyubujue/stats220/tree/main/project1>
+
+## 
